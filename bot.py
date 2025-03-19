@@ -1,6 +1,7 @@
 import requests
 from telegram import Bot
-
+# Directly adding the token (NOT RECOMMENDED)
+TOKEN = "7835773974:AAFYYVRmD7hWB4rudT99w3U63066ByWRg2E
 # Editable settings
 EXCHANGE_RATE = 1.0  # Change as needed
 MY_PERCENTAGE = 10  # Change as needed (in %)
